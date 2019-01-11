@@ -1,4 +1,5 @@
-Crea tu propio repositorio HolaMundoNombreApellido1Apellido2. Añádele el fichero README donde aparecerán estas instrucciones de la práctica
+
+<p> Crea tu propio repositorio HolaMundoNombreApellido1Apellido2. Añádele el fichero README donde aparecerán estas instrucciones de la práctica
 Activa las Github Pages (hosting de github)
 Añádele el fichero de inicio. En él aparecerá una tabla html con las siguientes columnas: nombre y apellidos, usuariogithub, enlace al hosting de este repositorio HolaMundo de  github.
 Añade el fichero style.css en la carpeta css. 
