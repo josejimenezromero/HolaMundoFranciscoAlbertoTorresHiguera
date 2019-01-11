@@ -1,5 +1,6 @@
-Crea tu propio repositorio HolaMundoNombreApellido1Apellido2. Añádele el fichero README donde aparecerán estas instrucciones de la práctica
-Activa las Github Pages (hosting de github)
+# HolaMUNDO
+1. Crea tu propio repositorio HolaMundoNombreApellido1Apellido2. Añádele el fichero README donde aparecerán estas instrucciones de la práctica
+2. Activa las Github Pages (hosting de github)
 Añádele el fichero de inicio. En él aparecerá una tabla html con las siguientes columnas: 
 nombre y apellidos del alumno
 usuariogithub
